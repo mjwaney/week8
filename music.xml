@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<music>
+<instrument>
+    <name>Guitar</name>
+    <type>Strings</type>
+    <description>
+   	The guitar is a musical instrument classified as a fretted string instrument with anywhere from four to 18 strings, usually having six. 
+   </description>
+</instrument>
+<instrument>
+    <name>Piano</name>
+    <type>Strings</type>
+    <description>
+   	The piano is an acoustic, stringed musical instrument invented around the year 1700 in which the strings are struck by hammers.
+   </description>
+</instrument>
+<instrument>
+    <name>Saxophone</name>
+    <type>Woodwind</type>
+    <description>
+   	The saxophone (also referred to as the sax) is a family of woodwind instruments. Saxophones are usually made of brass and played with a single-reed mouthpiece similar to that of the clarinet.
+   </description>
+</instrument>
+</music>
